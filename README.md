@@ -28,7 +28,7 @@
 
 <h2> For my Profession, please visit </h2>
 
-[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)   - 📫 https://www.linkedin.com/in/fikret-topaloglu-4208a8224/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)
+[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)   - 📫 https://www.linkedin.com/in/fikret-topaloglu-4208a8224/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="40" width="60" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)
 
 <h2> Also you can contact with me</h2>
 
