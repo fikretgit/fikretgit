@@ -8,7 +8,7 @@
 <h2 align="center">Hey there, I'm Fikret  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
   
-<a href="#"><img width="90%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQE6TqlKukQ1WA/profile-displaybackgroundimage-shrink_350_1400/0/1634759610591?e=1651708800&v=beta&t=gMTD5kjgO8mesGEjaM8WORj_PkUA1YM7JKUjzszIBXA" height="125px"/></a>
+<a href="#"><img width="90%" height="auto" src="https://fonts.googleapis.com/css?family=Audiowide" height="125px"/></a>
 
 -------------
 
