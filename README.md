@@ -38,7 +38,7 @@
 
 [<img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" color="white" alt="linkedin" height="40" width="50" />](https://twitter.com/home)   - 📫 https://twitter.com/home
 
-[<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text-thumbnail.png" color="white" alt="linkedin" height="40" width="50" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
+[<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text-thumbnail.png" color="white" alt="linkedin" height="35" width="40" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
 <h2> You can visit my site as well; </h2>
 
