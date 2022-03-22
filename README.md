@@ -32,7 +32,7 @@
 
 <h2> Also you can contact with me;</h2>
 
-[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)   - 📫 engr.fikret@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)
+[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)   - 📫 engr.fikret@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="50" width="75" />](mailto:engr.fikret@gmail.com)
 
 <h2> My Social Media links </h2>
 
