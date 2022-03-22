@@ -36,7 +36,7 @@
 
 <h2> My Social Media links </h2>
 
-[<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUK5saYdykLjcKZvuy5od9QgsowXmxCT0WA&usqp=CAU" color="white" alt="linkedin" height="40" width="50" />](https://twitter.com/home)   - 📫 https://twitter.com/home
+[<img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" color="white" alt="linkedin" height="40" width="50" />](https://twitter.com/home)   - 📫 https://twitter.com/home
 
 [<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text-thumbnail.png" color="white" alt="linkedin" height="40" width="50" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
