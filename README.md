@@ -38,7 +38,7 @@
 
 [<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUK5saYdykLjcKZvuy5od9QgsowXmxCT0WA&usqp=CAU" color="white" alt="linkedin" height="60" width="80" />](https://twitter.com/home)   - 📫 https://twitter.com/home
 
-[<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" color="white" alt="linkedin" height="60" width="80" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
+[<img align="center" src="https://im.haberturk.com/2018/07/23/ver1536826153/2070802_414x414.jpg" color="white" alt="linkedin" height="60" width="80" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
 <h2> You can visit my site as well; </h2>
 
