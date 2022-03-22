@@ -28,7 +28,11 @@
   
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)   - 📫 please contact with me  via engr.fikret@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)
 
+<h2> My Social Media links </h2>
+
 [<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUK5saYdykLjcKZvuy5od9QgsowXmxCT0WA&usqp=CAU" color="white" alt="linkedin" height="60" width="80" />](https://twitter.com/home)   - 📫 https://twitter.com/home
+
+[<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" color="white" alt="linkedin" height="60" width="80" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
 [<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 visit my site www.fikretopaloglu.com   ✨
 
