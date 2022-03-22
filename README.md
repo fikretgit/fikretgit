@@ -42,7 +42,7 @@
 
 <h2> You can visit my site as well; </h2>
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 www.fikretopaloglu.com   ✨
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="40" width="60" />](https://www.fikretopaloglu.com)   - 💬 www.fikretopaloglu.com   ✨
 
  ---------------
 <h4 align="left">We are NightFighter, Join us to NightFighterClub:</h4>
