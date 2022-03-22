@@ -40,7 +40,9 @@
 
 [<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" color="white" alt="linkedin" height="60" width="80" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 also you can visit my site www.fikretopaloglu.com   ✨
+<h2> You can visit my site as well; </h2>
+
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 www.fikretopaloglu.com   ✨
 
  ---------------
 <h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
