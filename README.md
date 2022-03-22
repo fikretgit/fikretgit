@@ -48,7 +48,7 @@
 <h4 align="left">We are NightFighter, Join us to NightFighterClub:</h4>
 <p align="left">
 
-  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="125" width="185" />](https://www.linkedin.com/groups/14059731/)
+  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="140" width="200" />](https://www.linkedin.com/groups/14059731/)
 
  ---------------
  ---------------
