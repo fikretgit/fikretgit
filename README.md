@@ -40,7 +40,7 @@
 
 [<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text-thumbnail.png" color="white" alt="linkedin" height="35" width="40" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
-<h2> You can visit my site as well; </h2>
+<h2> You can visit my site </h2>
 
 [<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="50" width="70" />](https://www.fikretopaloglu.com)   - 💬 www.fikretopaloglu.com   ✨
 
