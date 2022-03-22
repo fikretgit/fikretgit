@@ -28,9 +28,11 @@
   
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)   - 📫 please contact with me  via engr.fikret@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="40" width="45" />](https://www.erdoganail.net)   - 💬 my site www.erdoganali.net   ✨
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 visit my site www.fikretopaloglu.com   ✨
 
-[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)   - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)
+[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)   - 📫 https://www.linkedin.com/in/fikret-topaloglu-4208a8224/   ✨   
+
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)
 
  ---------------
 <h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
