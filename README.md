@@ -28,15 +28,17 @@
   
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)   - 📫 please contact with me  via engr.fikret@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="60" width="80" />](mailto:engr.fikret@gmail.com)
 
+<h2> For my Professional side, please visit; </h2>
+
+[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)   - 📫 https://www.linkedin.com/in/fikret-topaloglu-4208a8224/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)
+
 <h2> My Social Media links </h2>
 
 [<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUK5saYdykLjcKZvuy5od9QgsowXmxCT0WA&usqp=CAU" color="white" alt="linkedin" height="60" width="80" />](https://twitter.com/home)   - 📫 https://twitter.com/home
 
 [<img align="center" src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" color="white" alt="linkedin" height="60" width="80" />](https://www.instagram.com/)   - 📫 https://www.instagram.com/
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 visit my site www.fikretopaloglu.com   ✨
-
-[<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)   - 📫 https://www.linkedin.com/in/fikret-topaloglu-4208a8224/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="60" width="80" />](https://www.linkedin.com/in/fikret-topaloglu-4208a8224/)
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="instagram" height="60" width="80" />](https://www.fikretopaloglu.com)   - 💬 also you can visit my site www.fikretopaloglu.com   ✨
 
  ---------------
 <h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
