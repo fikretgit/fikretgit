@@ -53,7 +53,7 @@
  ---------------
  ---------------
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikretgit&theme=radical)
 
   ---------------
   
