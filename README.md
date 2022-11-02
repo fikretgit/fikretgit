@@ -22,7 +22,7 @@
 
 <img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="60" width="80" />   - 👀 I’m interested in IT
 
- [<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHk15V_X2up1A/feedshare-shrink_2048_1536/0/1647239167260?e=1649894400&v=beta&t=_bpOd1z9V0KzC8iVMRp87zeeQbl8mUIgtDjHNyMOWTE" background-color="white" alt="instagram" height="60" width="80" />](https://aws.amazon.com/tr/console/)   - 🌱 I’m currently learning AWS and DevOps Tools..
+ [<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHk15V_X2up1A/feedshare-shrink_2048_1536/0/1647239167260?e=1649894400&v=beta&t=_bpOd1z9V0KzC8iVMRp87zeeQbl8mUIgtDjHNyMOWTE" background-color="white" alt="instagram" height="60" width="80" />](https://aws.amazon.com/tr/console/)   - 🌱 I am 2 X Certified AWS Solution Architect and DevOps Engineer..
   
  <img align="center" src="https://2svkzb1o71wr1z98lv262kr3-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/06127-Dr-Linkedin-Animated-Logo-GIF-v1.gif" background-color="white" alt="instagram" height="60" width="80" />  - 💞️ I’m looking to collaborate on DevOps..
 
