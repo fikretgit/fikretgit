@@ -20,11 +20,9 @@
 
 - 👋 Hi, I’m Fikret Topaloğlu..
 
-<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="60" width="80" />   - 👀 I’m interested in IT
+<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="60" width="80" />   - 👀 I’m interested in IT 🌱 I'm 2 X Certified AWS Solution Architect and DevOps Engineer..
 
- [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-n9x7j6fpW0Hf0np6ML3tZkUVj4D-NqiNXA&usqp=CAU](https://aws.amazon.com/tr/console/)   - 🌱 I'm 2 X Certified AWS Solution Architect and DevOps Engineer..
-  
- <img align="center" src="https://2svkzb1o71wr1z98lv262kr3-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/06127-Dr-Linkedin-Animated-Logo-GIF-v1.gif" background-color="white" alt="instagram" height="60" width="80" />  - 💞️ I’m looking to collaborate on DevOps..
+<img align="center" src="https://2svkzb1o71wr1z98lv262kr3-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/06127-Dr-Linkedin-Animated-Logo-GIF-v1.gif" background-color="white" alt="instagram" height="60" width="80" />  - 💞️ I’m looking to collaborate on DevOps..
 
 <h2> For my Profession, please visit </h2>
 
